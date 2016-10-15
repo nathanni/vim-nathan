@@ -58,6 +58,7 @@ Bundle 'scrooloose/nerdcommenter'
 Bundle 'davidhalter/jedi-vim' 
 Bundle 'ctrlpvim/ctrlp.vim'
 Bundle 'kien/rainbow_parentheses.vim'
+Bundle 'ervandew/supertab'
 
 filetype plugin indent on
 
