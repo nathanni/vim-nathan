@@ -172,3 +172,6 @@ au VimEnter * RainbowParenthesesToggle
 au Syntax * RainbowParenthesesLoadRound
 au Syntax * RainbowParenthesesLoadSquare
 au Syntax * RainbowParenthesesLoadBraces
+
+" encoding
+set fileencodings=ucs-bom,utf-8,utf-16,gbk,big5,gb18030,latin1
