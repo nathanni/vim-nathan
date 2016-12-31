@@ -17,6 +17,6 @@ $git clone https://github.com/nathanni/vim-nathan.git
   $cp ./vim-nathan/ .vimrcami .vimrc
 
 # bundle intall
-$vi -> :BundleInstall!
+$vi -> :PluginInstall
 
 # enjoy
