@@ -15,8 +15,6 @@ $cp ./vim-nathan/.vimrc .vimrc
 $vi -> :PluginInstall
 
 # Pip Plugin Install
-$pip install jedi
-
 $pip install autopep8
 
 # Enjoy
