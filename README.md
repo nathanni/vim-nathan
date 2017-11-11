@@ -5,16 +5,9 @@ My VIM's Configuration
 $git clone https://github.com/gmarik/vundle.git ~/.vim/bundle/vundle
 
 # get configuration file
+$cd ~
 $git clone https://github.com/nathanni/vim-nathan.git
-
-  ## general user
-  $cp ./vim-nathan/.vimrc .vimrc
-
-  ## git bash user 
-  $cp ./vim-nathan/.vimrcgitbash .vimrc
-
-  ## ami user
-  $cp ./vim-nathan/ .vimrcami .vimrc
+$cp ./vim-nathan/.vimrc .vimrc
 
 # bundle intall
 $vi -> :PluginInstall
